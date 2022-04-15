@@ -1,8 +1,1 @@
-{
-    "name":"Your App Name",
-    "url":"http://localhost",
-    "main":"/",
-    "urls":{
-        "1":"app.ejs"
-    }
-}
+{"name":"YourAppName","url":"http://localhost","main":"/?","urls":{"1":"index.ejs"},"id":88278087486}

@@ -8,7 +8,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "npx husky install",
-    "devstart":"nodemon index.js"
+    "devstart": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/Emmanuek5/4pager#readme",
   "dependencies": {
-    "bluehost": "^1.0.1"
+    "bluehost": "^1.0.3"
   }
 }
