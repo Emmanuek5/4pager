@@ -1,1 +1,15 @@
-{"name":"YourAppName","url":"http://localhost","status": "Online","cport": "709","main":"/","urls":{"1":"index.ejs"},"id":""}
+{
+    "name": "Andrew",
+    "id": "",
+    "otp":"",
+    "url": "http://localhost",
+    "status": "Online",
+    "cport": "709",
+    "main": "/",
+    "second": "test",
+    "mode": "development",
+    "urls": {
+        "1": "index.ejs",
+        "2": "second.ejs"
+    }
+}
