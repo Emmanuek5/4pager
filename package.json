@@ -1,6 +1,6 @@
 {
   "name": "4pager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Way To make Websites With four Pages",
   "main": "index.js",
   "bin": "./bin/cli.js",
