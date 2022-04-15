@@ -1,0 +1,27 @@
+{
+  "name": "4pager",
+  "version": "1.0.0",
+  "description": "A Way To make Websites With four Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuek5/4pager.git"
+  },
+  "keywords": [
+    "pager",
+    "html",
+    "web",
+    "template",
+    "express",
+    "app"
+  ],
+  "author": "blueobsidian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emmanuek5/4pager/issues"
+  },
+  "homepage": "https://github.com/Emmanuek5/4pager#readme"
+}
