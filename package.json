@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/Emmanuek5/4pager#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "bluehost": "^1.0.6"
   }
 }
