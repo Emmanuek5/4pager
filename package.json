@@ -10,6 +10,7 @@
     "postinstall": "npm install bluehost",
     "devstart": "nodemon index.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Emmanuek5/4pager.git"
