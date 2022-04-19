@@ -1,1 +1,15 @@
-{"name":"Andrew","id":88710626432,"otp":36066300825,"url":"http://localhost","status":"Online","cport":"709","main":"/?","second":"test","mode":"development","urls":{"1":"index.ejs","2":"second.ejs"}}
+{
+    "name": "Andrew",
+    "id": "",
+    "otp":"",
+    "url": "http://localhost",
+    "status": "Online",
+    "cport": "709",
+    "main": "/",
+    "second": "test",
+    "mode": "development",
+    "urls": {
+        "1": "index.ejs",
+        "2": "second.ejs"
+    }
+}
